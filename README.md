@@ -167,7 +167,7 @@ uos.bundle().
 device and UART as input device. The port requires further python scripts.
 - lcd_io.md: Readme for the pye_lcd version, provided by @kmatch98.
 - pye_tft.py: Sample front-end using a tft with a SSD1963 controller as output device. The port
-requires the SSD1963 drivers: https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard
+requires the SSD1963 drivers: https://github.com/solarspecter315/SSD1963-TFT-Library-for-PyBoard
 
 ## Branches
 
